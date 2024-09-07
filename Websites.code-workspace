@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": "../../Websites"
+		},
+		{
+			"path": "../Html.Css Projects/SignUp form"
+		},
+		{
+			"path": "../../Main couse code"
+		},
+		{
+			"path": "../../Responsive Design"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Main couse code"
+    }
+}
